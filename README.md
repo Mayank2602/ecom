@@ -3,11 +3,13 @@
 ## Description
  eCommerce platform built with the MERN stack & Redux. This app includes authentication, profiles, products catalog, shopping cart etc. Users can make purchases, review products, rate them. Authenticated admin users can modify products catalog, mark paid orders to delivery, give admin rights regular users. Payment system is developed with PayPal API.
 
-> eCommerce platform built with the MERN stack & Redux.
 
-This is the course project for my [MERN eCommerce From Scratch] course
+
+
 
 ![screenshot](https://github.com/nalluruvenkatavarun/ecommercewebapp/blob/master/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
+
+This is the course project for my [MERN eCommerce From Scratch] course
 
 ## Features
 
@@ -25,8 +27,24 @@ This is the course project for my [MERN eCommerce From Scratch] course
 - PayPal / credit card integration
 - Database seeder (products & users)
 
-## Note on Issues
-Please do not post issues here that are related to your own code when taking the course. Add those in the Udemy Q/A. If you clone THIS repo and there are issues, then you can submit
+##Tech stack 
+  FrontEnd
+    .React
+    .Redux redux 
+    .React bootstrap
+BackEnd
+    .Node
+    .Express
+    .JWT
+    .MongoDB
+    .PayPal API
+    .Heroku hosting
+
+
+
+
+
+
 
 ## Usage
 
