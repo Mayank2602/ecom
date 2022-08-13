@@ -1,5 +1,8 @@
 # ProShop eCommerce Platform
 
+## Description
+ eCommerce platform built with the MERN stack & Redux. This app includes authentication, profiles, products catalog, shopping cart etc. Users can make purchases, review products, rate them. Authenticated admin users can modify products catalog, mark paid orders to delivery, give admin rights regular users. Payment system is developed with PayPal API.
+
 > eCommerce platform built with the MERN stack & Redux.
 
 This is the course project for my [MERN eCommerce From Scratch] course
