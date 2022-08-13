@@ -103,9 +103,9 @@ jane@example.com (Customer)
 
 ## License
 
-The MIT License
+The NVV License
 
-Copyright (c) 2020 Traversy Media https://traversymedia.com
+Copyright (c) 2022 NVV
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
