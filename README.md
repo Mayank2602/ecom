@@ -4,7 +4,7 @@
 
 This is the course project for my [MERN eCommerce From Scratch] course
 
-![screenshot]((https://drive.google.com/file/d/1B01b9mw54YnpYlaSJ4vqKBBv1kxU9daK/view?usp=sharing))
+![screenshot](https://drive.google.com/file/d/1B01b9mw54YnpYlaSJ4vqKBBv1kxU9daK/view?usp=sharing)
 
 ## Features
 
